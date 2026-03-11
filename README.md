@@ -65,13 +65,6 @@ Frameworks: TensorFlow, Keras
 
 Libraries: OpenCV, NumPy, Matplotlib, scikit-learn
 
-🔧 Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/cnn-landmark-detection.git
-cd cnn-landmark-detection
-
 
 Install dependencies:
 
